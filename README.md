@@ -1,6 +1,5 @@
 # Unsupervised Anomaly Detection using an Isolation Forest
 
-## Preface
 This work showcases a holistic approach how to perform anomaly detection for rail traffic data of Finland. Therein, a so-called Isolation Forest is trained in order to detect anomal data samples. 
 
 ---
